@@ -2,7 +2,7 @@ body {
   color: #999;
 }
 
-td {
+td, th {
   border: 1px solid #808080;
   color: #000;
 }
